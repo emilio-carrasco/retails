@@ -1,4 +1,9 @@
-# retails
+# Retails
+
+## Python 
+Jupyter notebook.
+
+## SQL
 
   En la base de datos de una compañía logística retails de moda guardamos información de la venta historia de un retailer de moda.
 Las ventas se registran como SKU - Tienda - Fecha. Cada producto puede tener varios SKUs asociados (tallas, variantes, etc. ).
