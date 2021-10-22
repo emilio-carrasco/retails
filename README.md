@@ -18,6 +18,11 @@ Preguntas:
 6. ¿Cuál de estas tablas consideras que sería candidata para de-normalizar? 7. ¿Qué índices te parece que faltan en este esquema?
 
   Anexo 1: Relaciones entre las tablas
+  
+  ![](https://github.com/emilio-carrasco/retails/blob/main/imgs/sql1.png)
+ 
+ 
+ ![](https://github.com/emilio-carrasco/retails/blob/main/imgs/sql2.png)
  
   Anexo 2: Definición de las tablas
   
